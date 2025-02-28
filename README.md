@@ -2,30 +2,57 @@
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | Java | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Java+Programmer;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Java+Programmer;Open+Source+Contributor;Cloud+Computing+Learner" />
 </p>
 
 ---
 
 ## 🚀 About Me  
 - 🎓 **B.Tech CSE Student @ MM(DU)**  
-- 🔭 **Full Stack Developer (MERN) | Java Programmer**  
-- 💡 Passionate about **building scalable web applications** & **solving DSA problems**  
+- 🔭 **Full Stack Developer (MERN) | Java Programmer | Cloud Enthusiast**  
+- 💡 Passionate about **building scalable web applications & solving DSA problems**  
 - 🏆 Completed **Web Development Internships** at **CodeSoft** & **OctaNet Services Pvt Ltd**  
-- 🌱 Currently improving skills in **System Design & Cloud Technologies**  
+- 🌱 Currently improving skills in **System Design, AWS, and DevOps**  
 - 🤝 Open to **collaborations on open-source projects & freelance opportunities**  
 
 ---
 
 ## 🛠 Tech Stack  
 
+### **🚀 Languages**
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### **🌐 Frontend Development**
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### **⚙ Backend Development**
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+### **🗄 Databases**
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### **☁ Cloud & DevOps**
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -39,7 +66,22 @@
 
 ---
 
-## 🌟 Featured Projects  
+## 🌟 LeetCode Stats  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/guddu__kumar?theme=dark&font=Montserrat&ext=contest" width="400px" />
+</p>
+
+---
+
+## 🎖 Certifications  
+- 📜 **Full Stack Web Development Certification** - Apna College  
+- 📜 **Java Programming Certification**  
+- 📜 **Cloud Computing Fundamentals** - AWS  
+
+---
+
+## 🚀 Featured Projects  
+
 <p align="center">
   <a href="https://github.com/guddu-coding/project1">
     <img src="https://github.com/guddu-coding/guddu-coding/blob/main/project1-image.png" width="300px">
@@ -54,12 +96,15 @@
 
 ---
 
-## 🎭 Fun Fact  
-💡 **"A developer's life is 10% coding & 90% debugging!"** 😂  
+## 👀 Visitor Counter  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=guddu-coding&label=Profile%20Views&color=brightgreen&style=flat" alt="guddu-coding" />
+</p>
 
 ---
 
 ## 📬 Let's Connect!  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/guddu-coding">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
